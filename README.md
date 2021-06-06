@@ -1,2 +1,2 @@
 # mlpres
-MLDL presentation course
+MLDL paper presentation
